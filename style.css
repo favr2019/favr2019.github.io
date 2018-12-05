@@ -9,8 +9,7 @@ body {
 	outline: 0;
 	font-size: 100%;
 	vertical-align: baseline;
-	line-height: 1;
-	background-color:#EEE;
+	background-color: #EEE;
 }
 
 @media (min-aspect-ratio: 3375/5175) {
@@ -67,7 +66,7 @@ a{
   padding-top: 5px;
   padding-bottom: 0px;
   font-family: 'Helvetica';
-  font-size: 22.22px;
+  font-size: 25px;
 	font-weight: lighter;
 	letter-spacing: -0.5px;
 	color: #d6315d;
